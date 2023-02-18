@@ -1,0 +1,7 @@
+Trend: A long-term pattern of change in a time series that can be increasing, decreasing, or stable over time.
+
+Seasonality: A predictable pattern of change in a time series that occurs at regular intervals, such as weekly, monthly, or yearly cycles.
+
+Stationarity: A property of a time series where the statistical properties of the series remain constant over time, such as mean and variance.
+
+Autocorrelation: The correlation of a time series with its own lagged values, which can indicate the presence of a trend or seasonality
